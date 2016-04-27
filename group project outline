@@ -1,0 +1,102 @@
+Fari-> i guess theres a chat aspect to this c9 thing but
+I dont know how to use it. I have gmail and slack.
+Stephen emailed me but I thought we could all just comment
+on this random text page and read as we go instead
+of constantly checking gmail.
+
+Karim, Stephen volunteered to do the html, is that ok?
+I think were all suppose to contribute so thats why we 
+can manipulate the code. We can work on the CSS/Content.
+Please add to the pages. And we can check the project
+checklist Cira gave us as we go.
+
+I like this website but with way less tabs and info:
+http://www.freeartsnyc.org/volunteer/
+
+
+Three Pages:
+1)Homepage
+    -description: to provide a focal website for good
+    tech websites & opportunities around the city.
+    -we only have to do 3 pages. so lets make two divs
+    leading to the other pages. "Manhattan" and 
+    "Outer boroughs"
+    -nav bar
+        -Manhattan
+        -Outerbourough meetups
+        -Online Resources
+    -contact us 
+    -footer
+2)Manhattan
+    -Project Code Phase I and II@ NYPL
+    -Lots of meetups
+    -
+    
+3)Outer bouroughs
+    -Meetups
+    -Project Code Phase I in Bx and SI(?)
+    -
+    
+ ___________________________________________   
+    
+(In person links)
+http://www.meetup.com/learn-python-nyc/
+http://www.meetup.com/BeginnerProgrammers/
+http://www.meetup.com/LearnToCodeNYC/events/230331306/
+http://www.techtalentpipeline.nyc/ourprograms/
+women who code- new york
+
+(Web-based links)
+treehouse.com
+codeacademy.com
+https://www.coursera.org/course/cs101 Stanford Intro to CS class
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+http://www.theodinproject.com/
+https://code.org/learn
+_____________________________________________
+
+Page 1)
+"Homepage"
+    Header-> "Home Button","Web programs","In-person Programs"
+    Picture of new york skyline --https://pixabay.com/static/uploads/photo/2015/09/28/21/33/new-york-city-962794_960_720.jpg
+    Two boxes. Box 1 links to Web, Box 2 links to in-person
+    Box 1- Put this description at the bottom of the box = "Here are a few
+    programs that you can use to learn to code at home.
+
+    Box 2- Put this description at the bottom of the box = "Here are a few
+    programs that you can use to learn to code with a group. 
+    Footer: This website is managed by F.Khan.
+    icon picture -> https://pixabay.com/static/uploads/photo/2015/08/29/14/04/back-to-school-913072_960_720.jpg
+    
+Page 2)
+"Web based"
+    Header-> "Home Button","Web programs","In-person Programs"
+    Insert Picture of a guy coding in his pjs.
+    List of 5 web based programs
+        1)
+        2)
+        3)
+        4)
+        5)
+    Footer: This website is managed by F.Khan.
+
+Page 3)
+"Web based"
+    Header-> "Home Button","Web programs","In-person Programs"
+    Insert Picture of a guy coding in his pjs.
+    List of 5 in person class based programs
+        1)
+        2)
+        3)
+        4)
+        5)
+    Footer: This website is managed by F.Khan.
+
+Page 4)
+    Header-> "Home Button","Web programs","In-person Programs"
+    Insert Form:
+        name, email, link to a free program. radio button: "web" and "in person"
+    Footer: This website is managed by F.Khan.
+    
+    
+    

@@ -1,0 +1,243 @@
+ul{
+    padding: 0px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+
+
+li{
+    list-style: none;
+    /*Lots of lists utilized on this site. 
+    No need for bullets or numbers though.*/
+}
+
+html{
+    background-color:#00D9FF;
+}
+
+#wrapper {
+    width: 81%;
+    max-width:1300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+h3{
+    font-family: Helvetica, Sans-Serif;
+    color:blue;
+    /**/
+}
+
+h1{
+    font: bold 1.75em Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    height: 3em;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top:2px;
+    margin-bottom:2px;
+    line-height:3em;
+    color: white;
+}
+/*-------homepage image css-------*/
+
+.menu li {
+    display: inline;
+	font-size: 1.2em;
+}
+
+
+div #mainpic{
+    background-image: url("./images/randomCodePic.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 720px;
+    font-size: 1.65em;
+    padding-right: 20px;
+    /*Background image and text overlaying iton homepage*/
+}
+
+h2 span { 
+   color: #FFFFFF; 
+   font: bold 2em Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+   /*Settings for text in background image*/
+}
+
+h2 { 
+   position: absolute; 
+   top: 400px; 
+   left: 100px; 
+   margin: 0 auto;
+   /*Positioning of Text on the background image remember, when positioning text inside of 
+    another element (like a div), that parent element must have it's positioning set to 
+    "relative"*/
+}
+
+.hom {
+    list-style-type: none;
+    width:420px;
+    height: 150px;
+    background-color: #FF1981;
+    line-height:150px;
+    display:inline-block;
+    text-align: center;
+    font-size: 2em;
+    margin: 0px;
+    text-decoration:none;
+    /*List items under the background image*/
+}
+
+.hom li a{
+    text-decoration: none;
+    font-family: Arial, "Sans-Serif";
+    color: #FFF;
+    font: 1.2em;
+}
+
+#homnav{
+    padding-left: 20px;
+}
+
+/*------End of homepage image css------*/
+/*---groups/meetups/classes resources and web resources Pages---*/
+header{
+    background-image: url("./images/nycSkyline3a.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    font: bold 1.25em Helvetica, Sans-Serif;
+    width: 100%;
+    height: 250px;
+    /*Background image and text overlaying it on homepage*/
+}
+.ophead h2 span { 
+   color: #FFFFFF; 
+   font: bold 1.85em Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+   /*Settings for text in background image*/
+}
+
+.ophead { 
+   position: absolute; 
+   top: 50px; 
+   left: 80px; 
+   margin: 0 auto;
+   /*Positioning of Text on the background image remember, when positioning text inside of 
+    another element (like a div), that parent element must have it's positioning set to 
+    "relative"*/
+}
+
+.nxt {
+    line-height: 45px;
+    height: 450px;
+    width: 24%;
+    float: left;
+    /*Width/height of nav tabs*/
+}
+
+.nxt ul li a, .content ul li a{
+    text-decoration: none;
+}
+
+.content {
+    margin: auto;
+    line-height: 45px;
+    /*height: 1200px;*/
+    /*Need space for image, list items that contain links and blurbs and 
+    forms. Is 1200px enough? If not, add more px.*/
+    width: 75%;
+    float: right; 
+    text-decoration: none;
+    /*Width, Height of Content section*/
+}
+
+
+.nxt ul li a{
+    text-decoration: none;
+    font-family: Arial, "Sans-Serif";
+    color: #FFF;
+    font-size: 1.21em;
+}
+
+.nxt ul li {
+    width:100%;
+    height: 100px;
+    background-color: #FF1981;
+    border: 2px solid black;
+    text-align: center;
+    line-height:100px;
+}
+
+.content li a{
+    font-family: 'Poiret One', cursive;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: #FF1981;
+}
+
+.content li a:hover{
+    color: #B2A109;
+}
+.nxt ul li {
+    font-family: Arial;
+    color:#CC7E00;
+    
+}
+
+li p{
+    font-family: 'Poiret One', cursive;
+    margin-top:0;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+
+/*----End of groups/meetups/classes Resources and Web Resources Pages CSS---*/
+/*Meetups and Groups and Programs Background Image*/
+
+/*Contacts Background Image*/
+.content img {
+    width:100%;
+    height: auto;
+    margin-top: 16px;
+}
+
+.lp {
+    padding-top:100px;
+    padding-bottom: 200px;
+}
+
+#footpad {
+    margin-top:200px;
+}
+
+/*Contacts*/
+/*Footer CSS*/
+footer {
+    clear:both;
+    background-color: #302628;
+    text-align:center;
+    height:200px;
+    padding-top: 250px;
+}
+/* sorry i totally deleted something */
+
+footer h3{
+    color: #CCB700;
+}

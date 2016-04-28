@@ -19,8 +19,7 @@ html{
 }
 
 #wrapper {
-    width: 81%;
-    max-width:1300px;
+    width: 85%;
     margin-right: auto;
     margin-left: auto;
 }
@@ -51,6 +50,20 @@ h1{
 }
 
 
+/*div #mainpic{
+    background-image: url("./images/randomCodePic.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    height: 720px;
+    font-size: 1.65em;
+    padding-right: 20px;
+    /*Background image and text overlaying iton homepage
+}*/
+
 div #mainpic{
     background-image: url("./images/randomCodePic.jpg");
     position: relative;
@@ -58,11 +71,12 @@ div #mainpic{
     background-size: contain;
     margin-left: auto;
     margin-right: auto;
-    width: 1300px;
-    height: 720px;
+    width: 100%;
+    background-position: center center;
+    height: 680px;
     font-size: 1.65em;
-    padding-right: 20px;
     /*Background image and text overlaying iton homepage*/
+    background-color: #0E0D13;
 }
 
 h2 span { 
@@ -86,10 +100,10 @@ h2 {
 
 .hom {
     list-style-type: none;
-    width:420px;
-    height: 150px;
+    width:33.1%;
+    height: 100px;
     background-color: #FF1981;
-    line-height:150px;
+    line-height:100px;
     display:inline-block;
     text-align: center;
     font-size: 2em;
@@ -102,7 +116,7 @@ h2 {
     text-decoration: none;
     font-family: Arial, "Sans-Serif";
     color: #FFF;
-    font: 1.2em;
+    font: 1.1em;
 }
 
 #homnav{

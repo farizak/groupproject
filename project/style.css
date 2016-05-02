@@ -100,16 +100,23 @@ h2 {
 
 .hom {
     list-style-type: none;
-    width:33.1%;
+    width:33.2%;
     height: 100px;
     background-color: #FF1981;
     line-height:100px;
     display:inline-block;
+    float:left;
     text-align: center;
     font-size: 2em;
     margin: 0px;
     text-decoration:none;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
     /*List items under the background image*/
+}
+
+.rght{
+    border-right: 1px solid black;
 }
 
 .hom li a{
